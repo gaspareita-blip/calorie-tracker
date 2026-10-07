@@ -1,0 +1,10 @@
+{
+  "name":"Calorie Tracker",
+  "short_name":"Calorie",
+  "start_url":"./",
+  "scope":"./",
+  "display":"standalone",
+  "background_color":"#f4f6f8",
+  "theme_color":"#111827",
+  "description":"Diario personale per calorie, macronutrienti e peso"
+}
